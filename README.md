@@ -339,4 +339,4 @@ Requirements Gathering > Procurement Planning > Hardware Lead Time
 ---
 
 > *Smart Building Automation Project v1.0 | Group Quantile | Arizona State University | Advanced Project Management*
-> *This repository contains confidential project documentation. Distribution restricted to authorised team members and course faculty only.*
+
