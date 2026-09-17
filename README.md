@@ -157,11 +157,23 @@ Automated regulation of heating and cooling using temperature and CO2 sensors. V
 ### 2. Smart Lighting System
 LED fixtures with embedded occupancy and daylight sensors automatically adjust brightness levels across all four floors. Zonal controls allow independent management per floor or wing, minimising energy waste during unoccupied periods.
 
+![Smart classroom with occupancy-responsive LED lighting and zonal controls](assets/images/smart-lighting-occupancy.png)
+
+*Smart lighting and occupancy controls in a modern classroom.*
+
 ### 3. Advanced Security Integration
 Biometric access control terminals replace physical-key systems across all access points. AI-powered CCTV cameras with night vision and motion detection provide comprehensive surveillance coverage. Smart fire detection and alarm systems are integrated with the BMS for automated emergency response and real-time alerting.
 
+![Biometric access terminal and integrated CCTV at a secured entrance](assets/images/security-access-control.png)
+
+*Integrated biometric access control and CCTV monitoring.*
+
 ### 4. Centralised Building Management System
 A cloud-based platform provides a unified, single-pane-of-glass view across all subsystems. Facilities staff access real-time dashboards and historical analytics via web and mobile interfaces. Automated alerting, incident ticketing integration, and predictive maintenance reduce unplanned downtime and extend asset lifecycle.
+
+![Integrated BMS dashboard displayed on desktop and mobile interfaces](assets/images/integrated-bms-dashboard.png)
+
+*Centralised BMS dashboard for real-time web and mobile monitoring.*
 
 ---
 
@@ -200,6 +212,10 @@ A cloud-based platform provides a unified, single-pane-of-glass view across all 
 | 5.0 | Deployment and Training | Staff training, system handover, operational readiness | 2 weeks |
 | 5.1 | Training Delivery | Facilities staff training, competency validation | 1 week |
 | 5.2 | System Handover | Documentation delivery, knowledge transfer, go-live support | 1 week |
+
+![HVAC technician installing and configuring a VAV control unit](assets/images/hvac-retrofit-installation.png)
+
+*Phase 3.0: HVAC retrofit installation and integration in progress.*
 
 ---
 
@@ -339,4 +355,3 @@ Requirements Gathering > Procurement Planning > Hardware Lead Time
 ---
 
 > *Smart Building Automation Project v1.0 | Group Quantile | Arizona State University | Advanced Project Management*
-
