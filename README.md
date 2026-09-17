@@ -32,6 +32,10 @@
 - **Classification:** Internal Use Only
 > **Read the full report:** [ASU Smart Building Automation Project Plan v1.0](https://github.com/apurva-dange/advance_project_management/blob/main/ASU_SmartBuilding_ProjectPlan_v1.pdf)
 
+![Animated preview of the first 20 pages of the ASU Smart Building Automation Project Plan](assets/images/asu-project-plan-pages-1-20.gif)
+
+*Animated preview of pages 1-20. Select the report link above to view the complete document.*
+
 ---
 
 ## Table of Contents
