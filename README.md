@@ -299,6 +299,10 @@ Requirements Gathering > Procurement Planning > Hardware Lead Time
 
 ## Key Performance Indicators
 
+![Smart Building Project KPI Targets infographic](assets/images/kpi-performance-summary.png)
+
+*Executive summary of the project's performance targets.*
+
 | KPI | Baseline | Target | Measurement Method |
 |-----|----------|--------|--------------------|
 | Energy Consumption | ~$120,000/year | Reduced by 20% ($96,000/year) | Monthly utility meter readings, normalised for weather |
